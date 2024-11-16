@@ -36,7 +36,7 @@ export const clmmTestnet: SdkOptions = {
   },
   clmm_pool: {
     package_id: '0x0c7ae833c220aa73a3643a0d508afa4ac5d50d97312ea4584e35f9eb21b9df12',
-    published_at: '0x0c7ae833c220aa73a3643a0d508afa4ac5d50d97312ea4584e35f9eb21b9df12',
+    published_at: '0xf3f49b91b82441ad017addff46d6d9a5867a755a86fb2374067fec19d6cc82c2',
     config: SDKConfig.clmmConfig,
   },
   integrate: {
